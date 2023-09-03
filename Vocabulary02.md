@@ -147,13 +147,13 @@ The company yesterday shed a sixth of its workforce.
 
 He inched the van forward.
 
-New England`s weather can be fickle.
+New England's weather can be fickle.
 
 Overcrowding remains a large obstacle to improving conditions.
 
 We have had several preliminary sitting in various poses.
 
-She`ll cook up a convincing explanation.
+She'll cook up a convincing explanation.
 
 Introducing this legislation would be like opening a can of worms.
 
@@ -169,13 +169,13 @@ I feel dizzy and disorientated.
 
 The registration form showed his date of birth as August 2, 1979.
 
-It`s being obese that constitutes a health risk.
+It's being obese that constitutes a health risk.
 
 He taught us music theory.
 
 He has found his ideal mate.
 
-Shipping is included orders sent within the continental U.S.
+Shipping includes orders sent within the continental U.S.
 
 This discovery validates the claims of popular astrology.
 
@@ -195,12 +195,13 @@ The city was destroyed by foreign invaders.
 
 She can get me on extension 118.
 
-Each person`s signature was unique.
+Each person's signature was unique.
 
 Make two holes with a hole punch.
 
 The flexibility of distance learning would be particularly suited to busy managers.
 
+//
 I've got naturally curly hair.
 
 The government has not verified any of those reports.
