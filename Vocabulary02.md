@@ -469,13 +469,13 @@ The sense of community is lost.
 
 He was upgraded to security guard.
 
-He seemed a bit biased against women in my opinion.
+He seemed a bit biased against women, in my opinion.
 
 He gave no detail.
 
-Malcolm, for instance, works in isolation but I have no doubts about his abilities.
+Malcolm, for instance, works in isolation, but I have no doubts about his abilities.
 
-The public utilities commission inspects us once a year.
+The Public Utilities Commission inspects us once a year.
 
 The appropriate word eluded him.
 
@@ -483,7 +483,7 @@ Hold your breath for a moment and exhale.
 
 Beware of being too impatient with others.
 
-Rancid oil will taint the flavor.
+Rancid oil will taint the flavour.
 
 I was immediately enthused.
 
