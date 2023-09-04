@@ -201,7 +201,6 @@ Make two holes with a hole punch.
 
 The flexibility of distance learning would be particularly suited to busy managers.
 
-//
 I've got naturally curly hair.
 
 The government has not verified any of those reports.
@@ -298,11 +297,11 @@ They had a snobbish dislike for their intellectual and social inferiors.
 
 He closely guarded her identity.
 
-Today is President`s Day, a federal holiday.
+Today is President's Day, a federal holiday.
 
 A Mafia museum was inaugurated in Corleone.
 
-Make sure that good behavior is rewarded.
+Make sure that good behaviour is rewarded.
 
 They are in New Hampshire and comment on ice hockey.
 
@@ -334,7 +333,7 @@ The censor struck out the next two lines.
 
 He wore a belt with a large brass buckle.
 
-Surely my existence cannot be so purposeless.
+Surely, my existence cannot be so purposeless.
 
 I untied the bow and unwrapped the small box.
 
@@ -342,11 +341,11 @@ The man was brutish and coarse.
 
 Some residents voiced concern that the rice could threaten certain species of rare migratory birds.
 
-He thinks I`m exaggerating.
+He thinks I'm exaggerating.
 
-The defendant pleaded guilty and was fined 500$.
+The defendant pleaded guilty and was fined $500.
 
-She discovered that they`d escaped.
+She discovered that they‘d escaped.
 
 She stopped at the threshold of the bedroom.
 
@@ -406,7 +405,7 @@ What Jeff did was anticipate my next question.
 
 English, maths, ICT, and science are compulsory subjects.
 
-It`s hot out - very hot, very humid.
+It's hot out - very hot, very humid.
 
 He seemed aloof and detached.
 
@@ -428,7 +427,7 @@ She bumped her head against a low branch.
 
 The house is in desperate need of redecoration.
 
-Hicks worked with children as a camp counselor.
+Hicks worked with children as a camp counsellor.
 
 He urged everyone to act responsibly.
 
@@ -448,11 +447,11 @@ This enclosure was so vast that the outermost wall could hardly be seen.
 
 For three years, I have probed understanding.
 
-I`d like to join an aerobics class to improve my fitness.
+I'd like to join an aerobics class to improve my fitness.
 
 He instructed staff to shred sensitive documents.
 
-Her version contradicted her daughter`s.
+Her version contradicted her daughter's.
 
 No one knows for sure why adolescence is unique to humans.
 
@@ -500,6 +499,7 @@ Symphony musicians cannot necessarily sight-read.
 
 Small particles adhere to the seed.
 
+//
 We're descending now at dizzying speed.
 
 The timetable was hopelessly optimistic.
