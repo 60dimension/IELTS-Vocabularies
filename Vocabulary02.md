@@ -499,7 +499,6 @@ Symphony musicians cannot necessarily sight-read.
 
 Small particles adhere to the seed.
 
-//
 We're descending now at dizzying speed.
 
 The timetable was hopelessly optimistic.
@@ -510,7 +509,7 @@ There is a wooden slat door.
 
 Richard was coming up the pathway.
 
-In a severe gale the ship split in two.
+In a severe gale, the ship split in two.
 
 Two pint-sized kids emerged from a doorway.
 
@@ -600,6 +599,7 @@ He still felt responsible for her death.
 
 The New York Times called it quote "a stupid idea" unquote.
 
+//
 Parachuting is a dangerous occupation.
 
 The sun had already sunk below the horizon.
