@@ -591,7 +591,7 @@ He yawned and stretched.
 
 Their attitude irritates me.
 
-If we would all work together, I think we could accomplish our goal.
+I think we could accomplish our goal if we would all work together.
 
 His large ears protrude from the side of his head, and he listens for the slightest sound.
 
@@ -599,12 +599,11 @@ He still felt responsible for her death.
 
 The New York Times called it quote "a stupid idea" unquote.
 
-//
 Parachuting is a dangerous occupation.
 
 The sun had already sunk below the horizon.
 
-His humor depended on contempt for others.
+His humour depended on contempt for others.
 
 Palm oil is environment-friendly.
 
@@ -618,7 +617,7 @@ The forum is now open to all budding entrepreneurs.
 
 The atmosphere was quite convivial.
 
-They were sworn to secrecy.
+They were sworn to secrecy. 
 
 Her grip slackened on Arnold's arm.
 
@@ -644,13 +643,13 @@ He landed in a psychiatric ward.
 
 Large dams harmed Siberia's delicate ecological balance.
 
-Haire that's thick and luxuriant needs regular strimming.
+Hair that's thick and luxuriant needs regular strimming.
 
 "What happened!" I exploded.
 
 He released his hold on the camera.
 
- The young woman was tall and slim.
+The young woman was tall and slim.
 
 I hate the way he manipulates people.
 
@@ -700,6 +699,7 @@ We're on the threshold of a new era in astronomy.
 
 He administered a shot of Nembutal.
 
+//
 Dr. Li is the zoo's director of zoological operations.
 
 He actively promoted the dissemination of scientific ideas about matters such as morality.
