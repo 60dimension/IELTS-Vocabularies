@@ -699,7 +699,6 @@ We're on the threshold of a new era in astronomy.
 
 He administered a shot of Nembutal.
 
-//
 Dr. Li is the zoo's director of zoological operations.
 
 He actively promoted the dissemination of scientific ideas about matters such as morality.
@@ -778,7 +777,7 @@ My mother taught me to be thrifty.
 
 Repairs to the cable did not take too long.
 
-The outside air was heavy and moist and sultry.
+The outside air was heavy, moist and sultry.
 
 His estate was valued at $150,000.
 
@@ -798,7 +797,7 @@ Video cameras with night vision can be activated by movement.
 
 She resolved to report the matter to the hospital's nursing supervisor.
 
-He is a very rigorous man, very persnickety.
+He is a very rigorous man, very pernickety.
 
 Iran remains an enigma to the outside world.
 
@@ -808,7 +807,7 @@ That's a cute trick.
 
 Gill speaks in a quiet Irish brogue.
 
-Once there were 70 million buffalo on the plains.
+Once, there were 70 million buffalo on the plains.
 
 The same alarm is manifest everywhere.
 
@@ -824,7 +823,7 @@ Drugs can relieve much of the pain.
 
 Is it worth fighting a big war in the name of an abstraction like sovereignty?
 
-Rocks like quartz, well, quartz of optical quality weren't cheap.
+Rocks like quartz, well, quartz of optical quality, weren't cheap.
 
 Most studies of trade have been country-specific.
 
@@ -878,7 +877,7 @@ His repertoire encompassed everything from Bach to Schoenberg.
 
 Landlords can charge a returnable deposit.
 
-These pearls had a fine luster.
+These pearls had a fine lustre.
 
 Migrant birds shelter in the reeds.
 
@@ -900,9 +899,10 @@ Success is not guaranteed.
 
 Is the mattress lumpy and saggy?
 
+//
 As your baby grows bigger, his bones become less pliable.
 
-Borrowing used not to be recommended.
+Borrowing is not to be recommended.
 
 She loved the African continent.
 
