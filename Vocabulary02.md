@@ -899,7 +899,6 @@ Success is not guaranteed.
 
 Is the mattress lumpy and saggy?
 
-//
 As your baby grows bigger, his bones become less pliable.
 
 Borrowing is not to be recommended.
@@ -922,17 +921,17 @@ He entwined his fingers with hers.
 
 The helicopter crashed to earth nearby.
 
-Cruelty is a normal attribute of human behavior.
+Cruelty is a normal attribute of human behaviour.
 
 He lived to the ripe old age of 95.
 
-Eye color shows more than your genetic inheritance.
+Eye colour shows more than your genetic inheritance.
 
 I felt numb with horror.
 
 She disengaged the film advance mechanism on the camera.
 
-Pain acts as a natural defense mechanism.
+Pain acts as a natural defence mechanism.
 
 You might be taking drastic measures, and you've got to have the backbone to do that.
 
@@ -954,7 +953,7 @@ I feel dizzy and disorientated.
 
 The consensus is that risk factors have an accumulative effect.
 
-What absolute drivel!
+What an absolute drivel!
 
 He persuaded Jo to take him in.
 
@@ -1004,7 +1003,7 @@ They dished up a superb meal.
 
 He let himself in with a duplicate key.
 
-Since 1945 air forces have decreased in size.
+Since 1945, air forces have decreased in size.
 
 The paper fluttered to the floor.
 
@@ -1016,7 +1015,7 @@ Mr. Giles pleads ignorance as his excuse.
 
 Some seed varieties germinate fast, so check every day or so.
 
-Can you tell it on an installment basis?
+Can you tell it on an instalment basis?
 
 Roll the meat and tie it with string.
 
@@ -1038,7 +1037,7 @@ The apparent simplicity of his plot is deceptive.
 
 His glasses magnified his irritable glare.
 
-The durable high-impact plastic case is water-resistant to 100 feet.
+The durable, high-impact plastic case is water-resistant to 100 feet.
 
 We raced them to the summit.
 
@@ -1100,6 +1099,7 @@ The largest organ in the body is the liver.
 
 She is among the most promising players in her age group.
 
+//
 Without a transfusion, the victim's probability of dying was 100%.
 
 He had always been able to count on her wise counsel.
