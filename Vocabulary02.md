@@ -1099,7 +1099,6 @@ The largest organ in the body is the liver.
 
 She is among the most promising players in her age group.
 
-//
 Without a transfusion, the victim's probability of dying was 100%.
 
 He had always been able to count on her wise counsel.
@@ -1110,7 +1109,7 @@ It's possible to weld stainless steel to ordinary steel.
 
 A similar situation prevails in Canada.
 
-People enjoyed the tranquility of a slower pace of life.
+People enjoyed the tranquillity of a slower pace of life.
 
 A new metro runs under the square, carrying hundreds of thousands who used to cycle to work.
 
@@ -1128,7 +1127,7 @@ He is an engrossing subject for the book.
 
 It was a tad confusing.
 
-A supersize portion of fries contains 600 calories.
+A supersized portion of fries contains 600 calories.
 
 It was just a tragic(comedy) accident.
 
@@ -1300,6 +1299,7 @@ Such a view rests on a number of incorrect assumptions.
 
 They surf, ski, and ride.
 
+//
 Part One analyzes the gulf in personal interrelationships.
 
 He could do the Times crossword in 15 minutes.
