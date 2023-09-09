@@ -1299,7 +1299,6 @@ Such a view rests on a number of incorrect assumptions.
 
 They surf, ski, and ride.
 
-//
 Part One analyzes the gulf in personal interrelationships.
 
 He could do the Times crossword in 15 minutes.
@@ -1308,9 +1307,9 @@ NASA plans to launch a satellite to study cosmic rays.
 
 I was sent a cheque and advised that no further pension was due.
 
-Luckily there was a taxi rank nearby.
+Luckily, there was a taxi rank nearby.
 
-She's ready to learn simple addition and subtraction
+She's ready to learn simple addition and subtraction.
 
 Carve the fowl into eight pieces.
 
@@ -1330,7 +1329,7 @@ Sales last year were marginally higher than in 1991.
 
 See how stupidly they kowtow to persons higher in the hierarchy.
 
-Following the discovery of the explosives, the president canceled the visit to the locality.
+Following the discovery of the explosives, the president cancelled the visit to the locality.
 
 I've seen a shrink already.
 
@@ -1338,13 +1337,13 @@ She was a sensible girl and did not panic.
 
 History is always a matter of interpretation.
 
-Fold the omelet in half.
+Fold the omelette in half.
 
 I was hurled bodily on the deck.
 
 The end of an era presupposes the start of another.
 
-Show consideration for your neighbors.
+Show consideration for your neighbours.
 
 Do you make any intermediate stops between your home and work?
 
@@ -1356,7 +1355,7 @@ Her popularity clearly shows no sign of waning.
 
 Longstanding poverty has been exacerbated by racial divisions.
 
-The divided family remains a powerful metaphor for a society that continued to tear itself apart.
+The divided family remains a powerful metaphor for a society that continues to tear itself apart.
 
 They had children and were consequently tied to school vacations.
 
@@ -1386,13 +1385,13 @@ It helps engender a sense of common humanity.
 
 He held a number of patents for his many innovations.
 
-Of course, in early architecture such as igloos and adobe structures, there was no such equipment, and the skeleton and skin were often one.
+Of course, in early architecture, such as igloos and adobe structures, there was no such equipment, and the skeleton and skin were often one.
 
 Cracks of light filtered through the shutters.
 
 A long drumroll introduced the trapeze artists.
 
-They were streaked with alternate bands of color.
+They were streaked with alternate bands of colour.
 
 Plants burgeon from every available space.
 
@@ -1500,6 +1499,7 @@ Divide the sauce among four bowls.
 
 Contrary to the more alarmist reports, he is not going to die.
 
+//
 The signal will be converted into digital code.
 
 He propped his elbows upon a greasy counter.
