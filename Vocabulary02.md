@@ -1287,13 +1287,13 @@ To some extent, this was the truth.
 
 The volcano threw new showers of magma and ash into the air.
 
-The soil sticks to the blade and blocks the plow.
+The soil sticks to the blade and blocks the plough.
 
 Malaysia and Indonesia rely on open markets for forest and fishery products. Conversely, some Asian countries are highly protectionist.
 
 Is the bear market in equity over?
 
-At times they have been shamefully neglected.
+At times, they have been shamefully neglected.
 
 Such a view rests on a number of incorrect assumptions.
 
@@ -1479,7 +1479,7 @@ Judith was hovering in the doorway.
 
 There is no Table of Contents.
 
-It's couched in such very user-unfriendly terminology.
+It's couched in such very user-friendly terminology.
 
 We all have to stay alert.
 
@@ -1696,7 +1696,7 @@ Police raided their headquarters and other offices.
 
 We have to expand the size of the image.
 
-Many of his predictions coming true.
+Many of his predictions were coming true.
 
 I can type your essays for you.
 
@@ -1728,7 +1728,7 @@ The result has been a giant leap in productivity.
 
 The muscle tear will leave a scar after healing.
 
-I saw her pulling three children through the snow on a sled.
+I saw her pulling three children through the snow on a sledge.
 
 No one really has any illusion about winning the war.
 
