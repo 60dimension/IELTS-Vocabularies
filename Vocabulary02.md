@@ -1467,7 +1467,7 @@ Water is a basic necessity of life.
 
 The origin of the custom is obscure.
 
-Police will conduct random breath tests
+Police will conduct random breath tests.
 
 He said all that remained was to agree to a time and venue.
 
@@ -1477,13 +1477,13 @@ She had a sweet, lively personality.
 
 Judith was hovering in the doorway.
 
-There is no Table of Content.
+There is no Table of Contents.
 
 It's couched in such very user-unfriendly terminology.
 
 We all have to stay alert.
 
-The walls were dark oak paneling.
+The walls were dark oak panelling.
 
 Many pesticides are irritants.
 
@@ -1493,7 +1493,7 @@ Can you follow the plot so far?
 
 He deduced that the two children belonged to the couple.
 
-I'd like to buy some land and have a house built to my specification.
+I'd like to buy some land and have a house built to my specifications.
 
 Divide the sauce among four bowls.
 
@@ -1510,7 +1510,7 @@ It was recorded on a wax cylinder.
 
 We teased him mercilessly.
 
-These front-line defenses are backed up by armored units in reserve.
+These front-line defences are backed up by armoured units in reserve.
 
 People should insulate their homes to conserve energy.
 
@@ -1588,7 +1588,7 @@ Most bosses are traditional.
 
 She was young enough to be malleable.
 
-And he had leukemia as well.
+And he had leukaemia as well.
 
 You can become a member by paying the yearly subscription.
 
@@ -1622,7 +1622,7 @@ So the exuberant young girl with dark hair and blue eyes decided to become a scr
 
 She went halves on gas.
 
-He called for much stricter curbs on immigration
+He called for much stricter curbs on immigration.
 
 The transaction is completed by payment of the fee.
 
@@ -1632,7 +1632,7 @@ They had five centuries of domination by the Romans.
 
 The list may not be complete.
 
-We agree on a form of splint to reinforce the damaged portion.
+We agreed on a form of splint to reinforce the damaged portion.
 
 Solar-powered lights bring night football to slums.
 
@@ -1760,17 +1760,17 @@ Not all ISPs are equipped to scan for viruses.
 
 I took a cordon bleu cookery course.
 
-Hot baths are my favorite luxury.
+Hot baths are my favourite luxury.
 
 Some spirituals are based on syncopated rhythms.
 
-This recipe is an adaptation of an old favorite.
+This recipe is an adaptation of an old favourite.
 
 He gave them a splendid lunch of smoked salmon.
 
 She ceased to think as anger transmuted into passion.
 
-It sets targets for the reduction of greenhouse-gas emissions.
+It sets targets for the reduction of greenhouse gas emissions.
 
 They may use a credit card for convenience.
 
@@ -1778,9 +1778,9 @@ Nancy took her car to a local garage for a check-up.
 
 There are an estimated 90,000 gangsters in the country.
 
-The United Mine Workers are not on strike today, despite the expiry of their contract at midnight.
+The United Mine Workers are not on strike today despite the expiry of their contract at midnight.
 
-The diploma course would offer remote access to the course materials via the internet's world wide web.
+The diploma course would offer remote access to the course materials via the internet's World Wide Web.
 
 She's extraordinarily disciplined.
 
