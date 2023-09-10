@@ -1698,6 +1698,7 @@ We have to expand the size of the image.
 
 Many of his predictions were coming true.
 
+//
 I can type your essays for you.
 
 He postponed his trip at the eleventh hour.
