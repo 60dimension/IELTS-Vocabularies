@@ -1499,7 +1499,6 @@ Divide the sauce among four bowls.
 
 Contrary to the more alarmist reports, he is not going to die.
 
-//
 The signal will be converted into digital code.
 
 He propped his elbows upon a greasy counter.
