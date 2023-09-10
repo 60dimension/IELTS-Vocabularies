@@ -1824,4 +1824,3 @@ He twiddled a knob on the dashboard.
 Pump all the tires up.
 
 There is little tonal variety in his voice.
-
