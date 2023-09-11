@@ -26,7 +26,7 @@ She watched him compulsively.
 
 You can enjoy a quick snack while your children cavort in the sand.
 
-He was interned as an enemy alien at the outbreak of the Second world war.
+He was interned as an enemy alien at the outbreak of the Second World War.
 
 Polls have charted growing disillusionment with the campaign.
 
@@ -52,7 +52,7 @@ He was well acquainted with the literature of Latin America.
 
 The warming of the earth and the consequent climatic changes affect us all.
 
-Even biology undergraduates may balk at animal experiments.
+Even biology undergraduates may baulk at animal experiments.
 
 He's smoking a joint.
 
@@ -98,11 +98,13 @@ We do a blood count to ensure that all is well.
 
 It does sometimes help to know the nutritional content of foods.
 
+//
+
 Don't be frightened by failure, son.
 
 The populace was admirable.
 
-Answer the questionaire overleaf.
+Answer the questionnaire overleaf.
 
 The region is glutted with hospitals.
 
