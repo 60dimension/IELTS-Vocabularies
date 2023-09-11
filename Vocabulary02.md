@@ -1697,7 +1697,6 @@ We have to expand the size of the image.
 
 Many of his predictions were coming true.
 
-//
 I can type your essays for you.
 
 He postponed his trip at the eleventh hour.
@@ -1708,7 +1707,7 @@ You could make a real difference in someone's life by leaving them a generous le
 
 I've been to see an internist, a nutritionist, and a chiropractor.
 
- More than 600,000 people were displaced by the tsunami.
+More than 600,000 people were displaced by the tsunami.
 
 He was passionate about all literature.
 
