@@ -1,8 +1,8 @@
 Contact your doctor if the cough persists.
 
-In 1951 the conservatives were returned to power.
+In 1951, the conservatives were returned to power.
 
-It was a good-humored conference.
+It was a good-humoured conference.
 
 The gas was seeping out of the socks.
 
@@ -172,7 +172,7 @@ The ecosystem will be thrown out of whack.
 
 Our competition has attracted a huge entry.
 
-At times the memories returned to torment her.
+At times, the memories returned to torment her.
 
 In total, 80% of bankrupt are men.
 
@@ -1171,5 +1171,3 @@ The location is exceptionally poor viewed from a sanitation point.
 Predatory pricing by large supermarkets was threatening the livelihood of smaller businesses.
 
 She was efficient and reliable.
-
-
