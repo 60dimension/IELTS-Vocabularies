@@ -98,8 +98,6 @@ We do a blood count to ensure that all is well.
 
 It does sometimes help to know the nutritional content of foods.
 
-//
-
 Don't be frightened by failure, son.
 
 The populace was admirable.
@@ -158,11 +156,11 @@ Many are concerned about the violence of some computer games, especially those s
 
 Don't argue with me.
 
-Sixty percent of dogs and ten percent of cats have pedigrees.
+Sixty per cent of dogs and ten per cent of cats have pedigrees.
 
 I could pinpoint his precise location on a map.
 
-The first catalog featured specialty shavers, accessories, and cutlery.
+The first catalogue featured speciality shavers, accessories, and cutlery.
 
 The rural outpost, 400 miles northeast of Helena, has one stoplight.
 
@@ -202,7 +200,7 @@ He ruled out any exchange of prisoners with the militants.
 
 The bottom line is that it's not profitable.
 
-My mother only gets sixteen shilling a week.
+My mother only gets sixteen shillings a week.
 
 He wore patent leather shoes.
 
@@ -300,6 +298,7 @@ Data is transmitted electronically.
 
 The locals are hospitable and welcoming.
 
+//
 When you beat the drum, you feel good.
 
 The ground shook, and the cliffs seemed to vibrate.
