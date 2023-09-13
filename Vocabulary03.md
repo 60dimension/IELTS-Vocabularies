@@ -298,7 +298,6 @@ Data is transmitted electronically.
 
 The locals are hospitable and welcoming.
 
-//
 When you beat the drum, you feel good.
 
 The ground shook, and the cliffs seemed to vibrate.
@@ -309,7 +308,7 @@ He didn't wish to appear discourteous.
 
 The danger is that recalcitrant local authorities will reject their responsibilities.
 
-The drought there is stretching resources
+The drought there is stretching resources.
 
 She's a curious mixture of stubbornness and servility.
 
@@ -337,7 +336,7 @@ The council is standing firm against the protest.
 
 The city is a sprawling behemoth with no heart.
 
-They lived in a happy, insulation brutal facts.
+They lived in happy, insulated, brutal facts.
 
 He handed me a little rectangle of white paper.
 
@@ -357,11 +356,11 @@ Remove any excess scales from the fish skin.
 
 I'm passionately opposed to the death penalty.
 
-To all intends and purposes he was my father.
+To all intents and purposes, he was my father.
 
 His arms were limp at his sides.
 
-He was upgraded to security guard.
+He was upgraded to the security guard.
 
 I will organize transportation.
 
@@ -403,7 +402,7 @@ Looking through the window, I saw the flicker of flames.
 
 Numerous marriages now end in divorce.
 
-The overall ambiance of the room is cozy.
+The overall ambience of the room is cosy.
 
 "Stop fussing," he snapped.
 
@@ -421,7 +420,7 @@ They were utterly unfit to govern.
 
 They specified a spacious entrance hall.
 
-Some of the commercially produced venison resembles beef in flavor.
+Some of the commercially produced venison resembles beef in flavour.
 
 Body temperature can fluctuate if you are ill.
 
@@ -441,7 +440,7 @@ Glutamate is the amino acid with the largest production in the world.
 
 Correlation, after all, does not prove causation.
 
-The skin thickens, dries, and coarsees after sun exposure.
+The skin thickens, dries, and is coarse after sun exposure.
 
 We devised a scheme to help him.
 
@@ -461,7 +460,7 @@ Vitamins can be applied externally to the skin.
 
 Ted's words humbled me.
 
-The harbor was replete with boats
+The harbour was replete with boats.
 
 The flight will take four hours.
 
@@ -469,11 +468,11 @@ The region was effectively independent.
 
 Prices went up on several basic commodities like bread and meat.
 
-Defense of the realm is crucial.
+Defence of the realm is crucial.
 
 The change is insidious and will not produce a noticeable effect for 15 to 20 years.
 
-Defense of the realm is crucial.
+Defence of the realm is crucial.
 
 I stood still, trying to invent a plausible excuse.
 
@@ -499,6 +498,7 @@ A new Danish expedition is again excavating the site in annual summer digs.
 
 I'm Claudia Polley with the news headlines.
 
+//
 Bolt the components together.
 
 Apparently, he made a mess of his audition.
