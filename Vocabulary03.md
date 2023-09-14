@@ -498,7 +498,6 @@ A new Danish expedition is again excavating the site in annual summer digs.
 
 I'm Claudia Polley with the news headlines.
 
-//
 Bolt the components together.
 
 Apparently, he made a mess of his audition.
@@ -663,7 +662,7 @@ Camels rebuild fat stores in their hump.
 
 They climbed a steep embankment.
 
-She and a neighbor tried in vain to revive him.
+She and a neighbour tried in vain to revive him.
 
 This thesis doesn't stand up to close inspection.
 
@@ -699,6 +698,7 @@ A fee is charged for each year of study and is payable at enrolment.
 
 The shower is easy to install.
 
+//
 Bannon lowered his bulk carefully into the chair.
 
 Kasparov became world champion.
