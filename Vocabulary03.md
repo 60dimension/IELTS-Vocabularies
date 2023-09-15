@@ -698,7 +698,6 @@ A fee is charged for each year of study and is payable at enrolment.
 
 The shower is easy to install.
 
-//
 Bannon lowered his bulk carefully into the chair.
 
 Kasparov became world champion.
@@ -709,11 +708,11 @@ Rape is sexualized violence.
 
 Inside these zones, traffic speeds are restricted to 20 miles per hour.
 
-The prevalence of black and Asian faces among those targeted caused especial resentment.
+The prevalence of black and Asian faces among those targeted caused special resentment.
 
 I didn't think through the consequences of promotion.
 
-They also repair broken religious artifacts.
+They also repair broken religious artefacts.
 
 There is an abundance of evidence to support the motivational benefits that result from carefully matching people to jobs.
 
@@ -741,11 +740,11 @@ Fishing is prohibited.
 
 Continuous exposure to sound above eighty decibels could be harmful.
 
-The airplane will travel at twice the speed of sound.
+The aeroplane will travel at twice the speed of sound.
 
 They were jostled and subjected to a torrent of verbal abuse.
 
-India has devalued the rupee by about eleven percent.
+India has devalued the rupee by about eleven per cent.
 
 He did not foresee any problems.
 
@@ -779,7 +778,7 @@ The stationery order has arrived.
 
 The mineral is weakly magnetic.
 
-Row upon row women surged forward.
+Row upon row, women surged forward.
 
 They have divested rituals of their original meaning.
 
@@ -825,15 +824,15 @@ This is to avoid aeration caused by droplets.
 
 She won't pay any extra.
 
-All that vulger socail climbing.
+All that vulgar social climbing.
 
 Euclid was trying to convey his idea of a geometrical point.
 
-Have any fish contaminated in the arctic Ocean.
+Have any fish been contaminated in the Arctic Ocean?
 
-If you think that remuneration will cause me to biased, so be it.
+If you think that remuneration will cause me to be biased, so be it.
 
-Exceesive conformity is usually caused by fear of disapproval.
+Excessive conformity is usually caused by fear of disapproval.
 
 The bullet punctured the skull.
 
@@ -859,6 +858,7 @@ That is the forfeit he must pay.
 
 The cup was won for the third consecutive year by the Toronto Maple Leafs.
 
+//
 This technique brings life to instruction and eases the assimilation of knowledge.
 
 I decided to conduct an experiment.
