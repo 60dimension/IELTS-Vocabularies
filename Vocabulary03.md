@@ -838,15 +838,15 @@ The bullet punctured the skull.
 
 The road is only one lane wide.
 
-His company, Soria Natural SA, has become an antrepreneurial success story.
+His company, Soria Natural SA, has become an entrepreneurial success story.
 
 Dorothea let out a histrionic groan.
 
 Their natural predators have been killed off.
 
-At 420 mph the windshield disintegrated.
+At 420 mph, the windshield disintegrated.
 
-It is first and foremost a trade agreement.
+It is, first and foremost, a trade agreement.
 
 The men mustered before their clan chiefs.
 
@@ -858,7 +858,6 @@ That is the forfeit he must pay.
 
 The cup was won for the third consecutive year by the Toronto Maple Leafs.
 
-//
 This technique brings life to instruction and eases the assimilation of knowledge.
 
 I decided to conduct an experiment.
@@ -899,6 +898,7 @@ He avers that chaos will erupt if he loses.
 
 The salt marshes and mud flats attract large numbers of waterfowl.
 
+//
 Total recycling is a fiction.
 
 I recognize my own shortcomings.
