@@ -898,7 +898,6 @@ He avers that chaos will erupt if he loses.
 
 The salt marshes and mud flats attract large numbers of waterfowl.
 
-//
 Total recycling is a fiction.
 
 I recognize my own shortcomings.
@@ -1019,7 +1018,7 @@ The shrubs encroached ever more on the twisting drive.
 
 Do you have a facsimile?
 
-There is insufficient space for enlargement of the buildings.
+There is insufficient space for the enlargement of the buildings.
 
 She has always been the family solicitor.
 
@@ -1085,7 +1084,7 @@ Japanese proprietors are erecting a complex infrastructure of political influenc
 
 He was a headmaster of a public school in the west of England.
 
-On cloudy days or at night it was impossible to tell the time with a sun clock or a sundial.
+On cloudy days or at night, it was impossible to tell the time with a sun clock or a sundial.
 
 I can endorse their opinion wholeheartedly.
 
@@ -1099,6 +1098,7 @@ This isn't your typical economics class.
 
 They unloaded their catch of cod and bass.
 
+//
 His short temper had become notorious.
 
 The drug may cause an aggravation of the condition.
@@ -1113,7 +1113,7 @@ In 1882, the city's first electric tram cars went into service.
 
 My dad took me to the circus.
 
-He was acutely aware of the odor of cooking oil.
+He was acutely aware of the odour of cooking oil.
 
 Though his background was modest, it was in no sense deprived.
 
@@ -1139,7 +1139,7 @@ The corporal shouted an order at the men.
 
 An ambulance drove past.
 
-The writing sloped backward.
+The writing sloped backwards.
 
  From a medical standpoint, a week is usually not a consequential delay.
 
@@ -1147,7 +1147,7 @@ Cholera is a bacterial infection.
 
 Its outline roughly forms an equilateral triangle.
 
-Now please be brief, My time is valuable.
+Now, please be brief; my time is valuable.
 
 My thoughts are all in a muddle.
 
