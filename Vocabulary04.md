@@ -38,7 +38,7 @@ Mr. Foster romped home with 141 votes.
 
 Total recycling is a fiction.
 
-He buys her a trinket and takes her to the theater.   
+He buys her a trinket and takes her to the theatre.   
 
 There is growing public disenchantment with the educational system.
 
@@ -78,7 +78,7 @@ The new ship will be powered by two gas turbines and four diesel engines.
 
 We got soaked to the skin.
 
-Most vegetables contain fiber.
+Most vegetables contain fibre.
 
 They were too spiritless even to resist.
 
@@ -106,7 +106,7 @@ The aircraft had reached its cruising altitude of about 39,000 feet.
 
 Details are available on request.
 
-People in general will support us.
+People, in general, will support us.
 
 The islands are famed for their colonies of sea birds.
 
@@ -142,7 +142,7 @@ His attendance record was spotty.
 
 Mollie gave an unease little titter.
 
-She swiveled her chair and stared out the window.
+She swivelled her chair and stared out the window.
 
 Entries that are illegible or otherwise not in accordance with the rules will be disqualified.
 
@@ -154,7 +154,7 @@ I traversed the narrow pedestrian bridge.
 
 They seemed so young and innocent.
 
-Don't leave on my account.
+Don't leave it on my account.
 
 Following this critique, students rewrite their papers and submit them for final evaluation.
 
@@ -198,6 +198,7 @@ I happened to bump into Mervyn Johns in the hallway.
 
 The talks can succeed if both sides are flexible and serious.
 
+//
 To drive, go east on Route 9.
 
 ONY studio presents its branding and interactive works in an ultraclean card-like manner.
