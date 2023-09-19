@@ -198,7 +198,6 @@ I happened to bump into Mervyn Johns in the hallway.
 
 The talks can succeed if both sides are flexible and serious.
 
-//
 To drive, go east on Route 9.
 
 ONY studio presents its branding and interactive works in an ultraclean card-like manner.
@@ -217,7 +216,7 @@ He replied with characteristic insouciance: "So what?"
 
 The media depict him as a left-wing bogeyman.
 
-He is very skeptical about the value of rote learning.
+He is very sceptical about the value of rote learning.
 
 The room was filled with cases of liquor.
 
@@ -257,7 +256,7 @@ There's also been a noticeable rise in the political temperature.
 
 He could have taken a spare key.
 
-The French say they favor a transition to democracy.
+The French say they favour a transition to democracy.
 
 Two hundred and fifty people were killed in the blast.
 
@@ -399,6 +398,7 @@ I was a very quiet, studious little girl.
 
 There is something undeniably soulful about the eerie whine of the highland bagpipes.
 
+//
 They have taken heavy casualties.
 
 The default setting on Windows Explorer will not show these files.
