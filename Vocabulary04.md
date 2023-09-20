@@ -354,11 +354,11 @@ Wait at reception for me.
 
 There was a spectacular sunrise yesterday.
 
-The boy was wearing a rubber-soled shoes.
+The boy was wearing rubber-soled shoes.
 
 Additional cream would make it too rich.
 
-The builders ran out of the materials.
+The builders ran out of materials.
 
 If the company were to relocate, most employees would move.
 
@@ -398,7 +398,6 @@ I was a very quiet, studious little girl.
 
 There is something undeniably soulful about the eerie whine of the highland bagpipes.
 
-//
 They have taken heavy casualties.
 
 The default setting on Windows Explorer will not show these files.
@@ -421,7 +420,7 @@ I couldn't believe they were so heartless.
 
 Most young women feel a biological need to procreate.
 
-At no time did I make an attempt to impede any investigatory effort?
+At no time did I make an attempt to impede any investigatory effort.
 
 The old machinery was still going strong.
 
@@ -475,9 +474,9 @@ The earth rotates around the sun.
 
 He's bent on suicide.
 
-His favorite pastime is golf.
+His favourite pastime is golf.
 
-Eye color shows more than your genetic inheritance.
+Eye colour shows more than your genetic inheritance.
 
 I was so thrilled to get a good grade from him.
 
@@ -503,7 +502,7 @@ His interests increasingly diverged from those of his colleagues.
 
 These piecemeal solutions won't work.
 
-It takes in anybody regardless of religion, color, or creed.
+It takes in anybody regardless of religion, colour, or creed.
 
 Heavy goods could be brought upriver in barges.
 
@@ -565,11 +564,11 @@ The mountain gorilla is on the verge of extinction.
 
 It says torture and summary execution are common.
 
-I wouldn't be in favor of income tax cuts.
+I wouldn't be in favour of income tax cuts.
 
 The vodka was the genuine article.
 
-The rations that they gave us were meager and inadequate.
+The rations that they gave us were meagre and inadequate.
 
 An operation of this magnitude is going to be difficult.
 
@@ -599,6 +598,7 @@ All the attractions of the peninsula beckon.
 
 Travel and overnight accommodation are included.
 
+//
 Hilda let out a scream.
 
 His family lived in the suburbs.
