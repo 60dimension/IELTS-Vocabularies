@@ -684,13 +684,13 @@ I was sorely tempted to retaliate.
 
 There were no adverse toxicological effects.
 
-The press invade people's privacy unfairly and unjustifiably every day.
+The press invades people's privacy unfairly and unjustifiably every day.
 
 She is transcribing, from his dictation, the diaries of Simon Forman.
 
-Abandon hope all ye who entre here.
+Abandon hope all ye who enter here.
 
-Now experts are extolling the virtues of the humble potato.
+Now, experts are extolling the virtues of the humble potato.
 
 The two sides agreed to honour a new ceasefire.
 
@@ -718,7 +718,7 @@ Buses have priority at this junction.
 
 You need to repack the parcel.
 
-The cannons boom and the band plays.
+The cannons boom, and the band plays.
 
 The adult-to-child ratio is one to six.
 
@@ -736,7 +736,7 @@ Varese Ligure is a small mountainous country east of Genoa.
 
 The decor is tasteful and restrained.
 
-He spilled a pot of coffee.
+He spilt a pot of coffee.
 
 Claire wished she'd primed Sarah beforehand.
 
@@ -788,7 +788,7 @@ People are stockpiling food for the coming winter.
 
 She gave a dramatic shudder of repulsion.
 
-They're accustomed to the rigors of army life.
+They're accustomed to the rigours of army life.
 
 Goodness, I wonder if he knows.
 
@@ -798,6 +798,7 @@ Johnson cut himself shaving.
 
 A bad contractor may hide mistakes or blame someone else and nickel-and-dime you with extra charges.
 
+//
 The mansion has been put up for sale.
 
 Each film gets a snappy two-line summary.
