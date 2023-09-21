@@ -598,7 +598,6 @@ All the attractions of the peninsula beckon.
 
 Travel and overnight accommodation are included.
 
-//
 Hilda let out a scream.
 
 His family lived in the suburbs.
