@@ -798,7 +798,6 @@ Johnson cut himself shaving.
 
 A bad contractor may hide mistakes or blame someone else and nickel-and-dime you with extra charges.
 
-//
 The mansion has been put up for sale.
 
 Each film gets a snappy two-line summary.
@@ -861,7 +860,7 @@ The book is enjoyable, hokum.
 
 He smiled briefly.
 
-Latanya is a woman with a vivid imagination
+Latanya is a woman with a vivid imagination.
 
 The device exploded underneath a van.
 
@@ -999,6 +998,7 @@ You have to understand how cells interact.
 
 One day, he left disappeared without a trace.
 
+//
 Take $5 off the regular price of any membership.
 
 She was jealous of his wealth.
