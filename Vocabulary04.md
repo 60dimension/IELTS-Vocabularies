@@ -996,9 +996,8 @@ Symptoms included frequent dryness in the mouth.
 
 You have to understand how cells interact.
 
-One day, he left disappeared without a trace.
+One day, he disappeared without a trace.
 
-//
 Take $5 off the regular price of any membership.
 
 She was jealous of his wealth.
@@ -1011,7 +1010,7 @@ I was constantly ill, with a baffling array of symptoms.
 
 They believe the law discriminates against women.
 
-The company's creative endeavors are thriving.
+The company's creative endeavours are thriving.
 
 A cow stood on the tracks.
 
@@ -1199,6 +1198,7 @@ They had seen him trawling and, therefore knew there were fish.
 
 His final reform was the fusion of regular and reserve forces.
 
+//
 You show me respect.
 
 She shelled and ate a few nuts.
