@@ -1194,11 +1194,10 @@ The company has proved to be a most benevolent employer.
 
 Mutual trust is the bedrock of a relationship.
 
-They had seen him trawling and, therefore knew there were fish.
+They had seen him trawling and, therefore, knew there were fish.
 
 His final reform was the fusion of regular and reserve forces.
 
-//
 You show me respect.
 
 She shelled and ate a few nuts.
@@ -1223,7 +1222,7 @@ Soften the butter mixture in a small saucepan.
 
 Five incendiary devices were found in her house.
 
-The land was flat, giving no scope for defense.
+The land was flat, giving no scope for defence.
 
 His estranged wife had taken out a restraining order against him.
 
@@ -1299,6 +1298,7 @@ Police scuffled with some of the protesters.
 
 The novel is shown from the girl's viewpoint.
 
+//
 She stood up and smoothed down her frock.
 
 Thanks, but I think I can handle it.
@@ -1325,7 +1325,7 @@ It originally retailed at $23.4.
 
 There was an elderly couple on the terrace.
 
-Heat the seasoned stock until it bubbling.
+Heat the seasoned stock until it is bubbling.
 
 The coffee table is glass, to be as unobtrusive as possible.
 
