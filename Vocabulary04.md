@@ -1298,7 +1298,6 @@ Police scuffled with some of the protesters.
 
 The novel is shown from the girl's viewpoint.
 
-//
 She stood up and smoothed down her frock.
 
 Thanks, but I think I can handle it.
@@ -1399,6 +1398,7 @@ She gave a mocking smile.
 
 Cooper arrived, quivering with rage.
 
+//
 The new airport will facilitate the development of tourism.
 
 When nuclear fuel is manufactured, it is encased in metal cans.
