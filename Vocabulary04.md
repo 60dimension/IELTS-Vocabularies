@@ -1354,7 +1354,7 @@ The two maps of the Rockies correspond closely.
 
 Chris Retzler has built a prototype of a machine called the wave rotor.
 
-She cites a favorite poem by George Herbert.
+She cites a favourite poem by George Herbert.
 
 Her internship was cut short because of a technical snafu.
 
@@ -1398,7 +1398,6 @@ She gave a mocking smile.
 
 Cooper arrived, quivering with rage.
 
-//
 The new airport will facilitate the development of tourism.
 
 When nuclear fuel is manufactured, it is encased in metal cans.
@@ -1499,7 +1498,9 @@ The different cultures had coexisted peacefully for many years.
 
 They went for a stroll along the waterfront.
 
-At twenty he translated Euler's standard work on algebra into English.
+//
+
+At twenty, he translated Euler's standard work on algebra into English.
 
 The higher we climbed, the more awe-inspiring the scenery became.
 
@@ -1511,7 +1512,7 @@ Mars was visible, dead in the centre of the telescope.
 
 The first quarter dividend has been increased by nearly 4 per cent.
 
-During the 1980s the U.S. became a very materialistic society.
+During the 1980s, the U.S. became a very materialistic society.
 
 Photography is one of her hobbies.
 
@@ -1547,7 +1548,7 @@ Hunger and poverty often compel the poor to overexploit the resources on which t
 
 I supervise the packing of all the mail orders.
 
-This is a fabulous album. It's fresh, varied, fun.
+This is a fabulous album. It's fresh, varied, and fun.
 
 He disregarded the advice of his executives.
 
@@ -1575,7 +1576,7 @@ Their tanks would be vulnerable to attack from the air.
 
 NASA, the National Aeronautics and Space Agency, today announced in Florida that the next space shuttle mission has been cancelled.
 
-Surely, It is an economic nonsense to deplete the world of natural resources.
+Surely, It is economic nonsense to deplete the world of natural resources.
 
 This debate is long overdue.
 
