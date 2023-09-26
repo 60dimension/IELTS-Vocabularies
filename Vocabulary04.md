@@ -1610,7 +1610,7 @@ His troubles predated the recession.
 
 There is no substance in any of these allegations.
 
-Dr Velayati gave a vague but negative response.
+Dr. Velayati gave a vague but negative response.
 
 The hostess introduced them.
 
