@@ -1498,8 +1498,6 @@ The different cultures had coexisted peacefully for many years.
 
 They went for a stroll along the waterfront.
 
-//
-
 At twenty, he translated Euler's standard work on algebra into English.
 
 The higher we climbed, the more awe-inspiring the scenery became.
