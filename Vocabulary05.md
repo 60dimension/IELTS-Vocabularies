@@ -18,7 +18,7 @@ Then, my husband started hassling me.
 
 His voice became harsh and loud.
 
-A black dust settled on the walls.
+Black dust settled on the walls.
 
 All three attacks followed the same pattern.
 
@@ -186,7 +186,7 @@ Shawna suffers from epilepsy.
 
 He was an unusually complex man.
 
-Harry moved to bar his way.
+Harry moved to the bar his way.
 
 The humidity is relatively low.
 
@@ -197,6 +197,8 @@ He drafted a letter to the editors.
 I felt loath to sully the gleaming brass knocker by handing it.
 
 That's my personal opinion.
+
+//
 
 Dallas will play with Green Bay.
 
