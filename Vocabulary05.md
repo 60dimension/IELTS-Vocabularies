@@ -112,7 +112,7 @@ The warming of the earth and the consequent climatic changes affect us all.
 
 Flying terrifies him.
 
-An overlay showing population can be placed on top of the map.
+An overlay showing the population can be placed on top of the map.
 
 The sponsored walk will raise money for AIDS care.
 
@@ -198,8 +198,6 @@ I felt loath to sully the gleaming brass knocker by handing it.
 
 That's my personal opinion.
 
-//
-
 Dallas will play with Green Bay.
 
 Worst of all, for a playwright specialising in characters who use the vernacular, he has a tin ear for dialogue.
@@ -234,7 +232,7 @@ He wiped off the table with a sponge.
 
 I have tremendous respect for Dean.
 
-Newspapers resorted a personal abuse.
+Newspapers resorted to personal abuse.
 
 She gave me some money to cover any miscellaneous expenses.
 
